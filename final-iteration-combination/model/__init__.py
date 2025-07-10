@@ -1,0 +1,1 @@
+from model.gesture_identifier.gesture_identifier import GestureIdentifier
